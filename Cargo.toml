@@ -1,0 +1,10 @@
+[package]
+name = "asn1dump"
+version = "0.1.0"
+authors = ["Rob N ★ <robn@robn.io>"]
+license = "MIT"
+
+[dependencies]
+num = "*"
+byteorder = "*"
+hex-slice = "*"
